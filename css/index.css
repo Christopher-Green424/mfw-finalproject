@@ -1,3 +1,7 @@
-.carouselWrapper {
-    height: 30vh;
+.carousel-inner {
+    height: 60vh;
+}
+
+.carousel-text-bg {
+    background-color: rgb(0,0,0, 0.5);
 }
