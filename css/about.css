@@ -1,3 +1,14 @@
 .cookingCard {
     background-color: #A82323;
 }
+
+.top-content .carousel-caption {
+    position: relative;
+    left: auto;
+    right: auto;
+    bottom: auto;
+}
+
+.top-content .carousel-indicators {
+    bottom: -40px;
+}
